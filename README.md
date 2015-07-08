@@ -38,8 +38,10 @@ fffff800`02e4d000 fffff800`03432000   nt         (export symbols)       ntkrnlmp
     FileDescription:  NT Kernel & System
     LegalCopyright:   © Microsoft Corporation. All rights reserved.
 ```
+![Alt text](img/rootkitban.png)
 
 ![Alt text](img/rootkit1.png)
+
 ![Alt text](img/rootkit2.png)
-![Alt text](img/rootkitban.png)
+
 ![Alt text](img/rootkitdbg.png)
