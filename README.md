@@ -8,8 +8,8 @@
  Toufik Airane @tfairane
 ```
 > don't forget to :
-  * sign driver
-  * compile in 64 bits mode
+  * x64 require signing
+  * I didn't try to bypass PatchGuard :)
 
 Tested on : win7sp1
 ```
