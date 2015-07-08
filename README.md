@@ -7,11 +7,9 @@
  Direct Kernel Object Manipulationon on EPROCESS opaque struct
  Toufik Airane @tfairane
 ```
-> don't forget to :
-  * x64 require signing
+> * x64 require signing
   * I didn't try to bypass PatchGuard :)
-
-Tested on : win7sp1
+  * Tested on : win7sp1
 ```
 lkd> lm v m nt
 start             end                 module name
