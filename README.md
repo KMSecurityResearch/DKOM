@@ -4,7 +4,7 @@
  | '_/ _ \/ _ \  _| / / |  _|
  |_| \___/\___/\__|_\_\_|\__|DKOM
 
- Direct Kernel Object Manipulationon on EPROCESS opaque struct
+ Direct Kernel Object Manipulationon _EPROCESS internal structure
  Toufik Airane @tfairane
 ```
 > 
