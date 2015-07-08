@@ -39,7 +39,7 @@ fffff800`02e4d000 fffff800`03432000   nt         (export symbols)       ntkrnlmp
     LegalCopyright:   © Microsoft Corporation. All rights reserved.
 ```
 
-![Alt text](img/Rootkit.DKOM.win7/rootkitban.png?raw=true)
-![Alt text](img/Rootkit.DKOM.win7/rootkit1.png?raw=true)
-![Alt text](img/Rootkit.DKOM.win7/rootkit2.png?raw=true)
-![Alt text](img/Rootkit.DKOM.win7/rootkitdbg.png?raw=true)
+![Alt text](img/rootkit1.png)
+![Alt text](img/rootkit2.png)
+![Alt text](img/rootkitban.png)
+![Alt text](img/rootkitdbg.png)
