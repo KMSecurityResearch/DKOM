@@ -7,7 +7,8 @@
  Direct Kernel Object Manipulationon on EPROCESS opaque struct
  Toufik Airane @tfairane
 ```
-> * x64 require signing
+> 
+  * x64 require signing
   * I didn't try to bypass PatchGuard :)
   * Tested on : win7sp1
 
@@ -29,13 +30,13 @@ fffff800`02e4d000 fffff800`03432000   nt         (export symbols)       ntkrnlmp
     File date:        00000000.00000000
     Translations:     0409.04b0
     CompanyName:      Microsoft Corporation
-    ProductName:      Microsoft® Windows® Operating System
+    ProductName:      MicrosoftÂ® WindowsÂ® Operating System
     InternalName:     ntkrnlmp.exe
     OriginalFilename: ntkrnlmp.exe
     ProductVersion:   6.1.7601.18409
     FileVersion:      6.1.7601.18409 (win7sp1_gdr.140303-2144)
     FileDescription:  NT Kernel & System
-    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+    LegalCopyright:   Â© Microsoft Corporation. All rights reserved.
 ```
 
 ![Alt text](img/Rootkit.DKOM.win7/rootkitban.png?raw=true)
